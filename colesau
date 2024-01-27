@@ -1,0 +1,34 @@
+{
+	"brand": {
+		"Farmer Jo": 40.0,
+    "Cobs": 30.0,
+    "Sakata": 60.0,
+    "Rafferty's Garden": 80.0,
+    "Kiddylicious": 60.0
+	},
+	"category": {
+		"Pantry": 90.0,
+    "Baby": 80.0
+	},
+	"label_1": {
+		"SPECIAL": 80.0,
+    "1/2 PRICE": 90.0
+	},
+	"unit_quatity": {
+		"2 pack": 50.0,
+    "4 pack": 80.0
+	},
+	"keywords": {
+		"Gluten Free": 80.0,
+		"Breakfast": 50.0,
+		"Snacks": 60.0
+	},
+  "savings": {
+		"Save $1.10": 50.0,
+    "Save $3.00": 80.0
+	},
+	"promotions": {
+		"Pick any 4 for $8": 50.0,
+    "Pick any 2 for $5": 60.0
+	}
+}
